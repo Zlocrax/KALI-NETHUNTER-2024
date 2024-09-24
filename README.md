@@ -32,8 +32,6 @@ pkg install rust
 
 pkg install proot
 
-Run this one more time:
-
 pkg update -y && pkg upgrade -y
 
 Now your terminal is setup lets move onto the kali install:
