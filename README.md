@@ -92,7 +92,7 @@ I am on a rootless device but as you can see I have rooted nethunter. I have spe
 
 Any questions feel free to ask.
 
-btw you will not find a better way to install NH as kali broke the nethunter code 2023 my way the rooted way is now one of the only ways as of 2024 with 0 errors 0 bugs 0 stress I have spent hours repairing nethunter putting the Pieces together to get it working again of my own free will so Everyone can have access to a linux  distro no matter if your Device is rooted or not and best part about it it doesnt touch your main OS so enjoy my freinds
+A better way to install NH as kali broke the nethunter code 2023 my way the rooted way is now one of the only ways as of 2024 with 0 errors 0 bugs 0 stress I have spent hours puzzling the Pieces together to get it working again of my own free will so Everyone can have access to a linux distro no matter if your Device is rooted or not and best part about it it doesnt touch your main OS so enjoy my freinds
 
 With thanks to https://github.com/EXALAB and https://github.com/gujjwal00 who without them this wouldn't be possible
 
