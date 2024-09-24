@@ -1,13 +1,11 @@
 # KALI-NETHUNTER-2024
 ROOTED NETHUNTER FOR BOTH ROOTLESS AND ROOTED DEVICES
 
-Approx 45min - hour depending on your network.
+Approx 45min - hour depending on your network. minimum device requirements 2gb ram, 10-12gb storage
 
 Dependicies
 
-Download termux for droid either  via this link or via the github repository I suggest you do not download the google play store one as it has no regular updates:
-
- https://fdroid.org/repo/com.termux_118.apk
+Download termux for droid either via this link or via the github repository I suggest you do not download the google play store one as it has no regular updates: https://fdroid.org/repo/com.termux_118.apk
 
 After termux installation open termux to set it up by following these steps (input 1by1): 
 fyi yes for Everything
@@ -43,7 +41,7 @@ Now your terminal is setup lets move onto the kali install:
 (SIDE NOTE:
 If install stops repeat this in your cmd line until instalation continues it gets and installs missing pkgs  
 apt --fix-broken install 
-if really stuckfeel free to shoot me a message)
+if you are really stuck look at my SS if not feel free to contact me)
 
 Copy and paste (1by1):
 
@@ -88,11 +86,9 @@ If black screen on startup input vncserver -kill
 chmod +x ~/.vnc/xstartup 
 vncserver 
 
-I am on a rootless device but as you can see I have rooted nethunter. I have spent my own free time  working on this so any feedback would be much appreciated thank you.
+I am on a rootless device but as you can see I have rooted nethunter. I have spent my own free time working on this. So any feedback would be much appreciated thank you, any questions feel free to ask.
 
-Any questions feel free to ask.
-
-A better way to install NH as kali broke the nethunter code 2023 my way the rooted way is now one of the only ways as of 2024 with 0 errors 0 bugs 0 stress I have spent hours puzzling the Pieces together to get it working again of my own free will so Everyone can have access to a linux distro no matter if your Device is rooted or not and best part about it it doesnt touch your main OS so enjoy my freinds
+A better way to install NH as kali broke the nethunter code 2023, my way the rooted way is now one of the only ways as of 2024 with 0 errors 0 bugs 0 stress. I have spent hours puzzling the Pieces together to get it working again of my own free will, so Everyone can have access to a linux distro. No matter if your Device is rooted or not and best part about it it doesnt touch your main OS so enjoy my freinds.
 
 With thanks to https://github.com/EXALAB and https://github.com/gujjwal00 who without them this wouldn't be possible
 
