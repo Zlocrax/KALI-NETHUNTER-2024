@@ -108,6 +108,9 @@ chmod +x ~/.vnc/xstartup
 
 vncserver 
 
+please go to this repository of mine to update nethunter 
+https://github.com/Zlocrax/Kali-update
+
 I am on a rootless device but as you can see I have rooted nethunter. I have spent my own free time working on this. So any feedback would be much appreciated thank you, any questions feel free to ask.
 
 A better way to install NH as kali broke the nethunter code 2023, my way the rooted way is now one of the only ways as of 2024 with 0 errors 0 bugs 0 stress. I have spent hours puzzling the Pieces together to get it working again of my own free will, so Everyone can have access to a linux distro. No matter if your Device is rooted or not and best part about it it doesnt touch your main OS so enjoy my freinds.
